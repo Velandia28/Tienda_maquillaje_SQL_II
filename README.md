@@ -34,6 +34,8 @@ La base de datos debe permitir almacenar información sobre productos, clientes,
 
 # Diagrama E-R 📋
 Diagramado de la Base de Datos ⬇️⬇️
+![alt text](DER.png)
+
 
 # Lenguaje
 
